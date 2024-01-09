@@ -5,7 +5,7 @@
 Hi there 👋
 - 🌱 I’m currently wotking as a full stack developer, New delhi
 - 🛠️ Skill Set: PHP, Laravel, Angular, Rest API, Databases
-- ⌨️ Programming: HTML, CSS, JavaScript, jquery, Mongoose,mysql PostgreSql
+- ⌨️ Programming: PHP, HTML, CSS, JavaScript, jQuery, Mongoose, MySQL, PostgreSQL
  
  
  
