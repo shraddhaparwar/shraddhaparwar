@@ -21,3 +21,4 @@ Hi there 👋
 <p><img align="center" src="https://github.com/AbhishekKumarJha3098/abhishek_jha" alt="abhishek" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shraddha" alt="shraddha" /></a> </p>
+<p align="left"><a href="https://angular.io/docs"><img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="shraddha" /></a></p>
