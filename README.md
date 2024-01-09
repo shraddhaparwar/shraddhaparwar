@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shraddha Parwar</h1>
-<h3 align="center">An efficient full-stack web developer with skills in HTML, CSS, JavaScript, React, mongodb, Bootstrap.Innovative, task-driven professional in web-designing, proficent in developing databases, user interfaces, writing & testing Codes, and implementing the featured based on the feedback.</h3>
+<h3 align="center">An efficient full-stack web developer with skills HTML, CSS, JavaScript, Angular, mongodb, Bootstrap.Innovative, task-driven professional in web-development, backend development, proficent in developing databases, user interfaces, writing & testing Codes, and implementing the featured based on the feedback.</h3>
 <br/>
  
 Hi there 👋
-- 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka
-- 🛠️ Skill Set: Data Structures, Rest API, Databases and Fronted Designing
-- ⌨️ Programming: HTML, CSS, JavaScript, React, Mongoose
+- 🌱 I’m currently wotking as a full stack developer, New delhi
+- 🛠️ Skill Set: PHP, Laravel, Angular, Rest API, Databases
+- ⌨️ Programming: HTML, CSS, JavaScript, Mongoose
  
  
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://in.linkedin.com/in/shraddha-choyal-a94617142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek jha" height="30" width="40" /></a>
-<a href="https://twitter.com/abhishekjha3098" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Nmj0gG2lUQWmmyJ-o8dxri2zr6ycuHJv7A&usqp=CAU" alt="abhishek jha" height="60" width="60" /></a>
+<a href="https://in.linkedin.com/in/shraddha-choyal-a94617142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shraddha parwar" height="30" width="40" /></a>
 </p>
  
 <h3 align="left">Languages and Tools:</h3>
