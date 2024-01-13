@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shraddha Parwar</h1>
+<h1 align="center">Hi 👋, I'm Shraddha Choyal</h1>
 <h3 align="center">An efficient full-stack web developer with skills HTML, CSS, JavaScript, Angular, mongodb, Bootstrap.Innovative, task-driven professional in web-development, backend development, proficent in developing databases, user interfaces, writing & testing Codes, and implementing the featured based on the feedback.</h3>
 <br/>
  
